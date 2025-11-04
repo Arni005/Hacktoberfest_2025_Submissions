@@ -4,11 +4,22 @@
 
 ## 🧩 My Contributions
 
-| Project | Description | Repository |
-|----------|--------------|------------|
-| 🎨 **Arni005-DayNight-Cycle** | A creative visual demonstrating animated transitions between day and night. | [Animation-Nation Repo](https://github.com/Animation-Nation/Animation-Nation) |
-| 🍬 **Arni005-Sweet-Treat** | A colorful animation featuring sweet treats and playful movements. | [Animation-Nation Repo](https://github.com/Animation-Nation/Animation-Nation) |
-| 🪄 **Other Works** | Additional contributions and creative art pieces part of Hacktoberfest 2025. | Coming soon! |
+| Project | Description | Repository / PR Link |
+|----------|--------------|----------------------|
+| 🎨 **Arni005-DayNight-Cycle** | A creative visual demonstrating animated transitions between day and night. | [zero-to-mastery/Animation-Nation#3177](https://github.com/zero-to-mastery/Animation-Nation/pull/3177) |
+| 🍬 **Arni005-Sweet-Treat** | A colorful animation featuring sweet treats and playful movements. | [zero-to-mastery/Animation-Nation#3187](https://github.com/zero-to-mastery/Animation-Nation/pull/3187) |
+| ❤️ **Arni005-Pulsating-Heart** | A smooth CSS/JS animation showcasing a pulsating heart effect. | [zero-to-mastery/Animation-Nation#3179](https://github.com/zero-to-mastery/Animation-Nation/pull/3179) |
+| ⚔️ **Text Based RPG Game** | A fun Python-based text RPG demonstrating control flow and logic. | [x0lg0n/Code-Contribution#123](https://github.com/x0lg0n/Code-Contribution/pull/123) |
+| 🧮 **BMI Calculator** | A simple Python script to calculate Body Mass Index (BMI). | [x0lg0n/Code-Contribution#121](https://github.com/x0lg0n/Code-Contribution/pull/121) |
+| 🔐 **Password Strength Checker** | A Python program to evaluate the strength of user passwords. | [x0lg0n/Code-Contribution#128](https://github.com/x0lg0n/Code-Contribution/pull/128) |
+
+---
+
+✅ **All Pull Requests:** Accepted & merged 🎉  
+⭐ Total Contributions: **6 PRs** across **2 repositories**  
+🏆 Repositories Contributed To:
+- [zero-to-mastery/Animation-Nation](https://github.com/zero-to-mastery/Animation-Nation)
+- [x0lg0n/Code-Contribution](https://github.com/x0lg0n/Code-Contribution)
 
 ---
 
