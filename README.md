@@ -31,9 +31,8 @@
 - 👕 **Hacktoberfest 2025 T-shirt** recipient  
 ## 🏆 Highlighted Badges
 
-[![Hacktoberfest 2025](https://holopin.io/api/user/board?user=arni005&badge=hacktoberfest2025)](https://holopin.io/@arni005)
-[![Super Contributor](https://holopin.io/api/user/board?user=arni005&badge=supercontributor)](https://holopin.io/@arni005)
 
+[![An image of @arni005's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arni005)](https://holopin.io/@arni005)
 ---
 
 ## 🧠 What I Learned
