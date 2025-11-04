@@ -29,6 +29,10 @@
 - 💻 **Super Contributor Badge** earned  
 - 🌱 **1 Tree planted** — [Certificate #8334623](https://treecertificates.hacktoberfest.com)  
 - 👕 **Hacktoberfest 2025 T-shirt** recipient  
+## 🏆 Highlighted Badges
+
+[![Hacktoberfest 2025](https://holopin.io/api/user/board?user=arni005&badge=hacktoberfest2025)](https://holopin.io/@arni005)
+[![Super Contributor](https://holopin.io/api/user/board?user=arni005&badge=supercontributor)](https://holopin.io/@arni005)
 
 ---
 
